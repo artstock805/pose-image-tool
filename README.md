@@ -1,5 +1,7 @@
 # 원하는 포즈로 이미지 만드는 도구
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artstock805/pose-image-tool/blob/master/pose_tool.ipynb)
+
 참조 사진 속 사람의 **자세(포즈)** 만 따와서, 프롬프트로 지정한 **다른 인물/장면**을
 그 자세 그대로 만들어 주는 Colab 도구입니다. (Stable Diffusion 1.5 + ControlNet OpenPose)
 
